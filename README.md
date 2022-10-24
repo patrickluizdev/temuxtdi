@@ -20,8 +20,8 @@
 
 ##### $git clone https://github.com/patrickluizdev/temuxtdi
 
-##### $cd termuxtdi
+##### $cd temuxtdi
 
-##### $chmod +x termuxtdi.sh
+##### $chmod +x requirements.sh
 
-##### $./termuxtdi.sh
+##### $./requirements.sh
