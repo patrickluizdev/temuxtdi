@@ -12,16 +12,16 @@
 
 ### Instalação:
 
-#### $termux-setup-storage
+##### $termux-setup-storage
 
-#### $termux-change-repo
+##### $termux-change-repo
 
-#### $apt install git
+##### $apt install git
 
-#### $git clone https://github.com/patrickluizdev/temuxtdi
+##### $git clone https://github.com/patrickluizdev/temuxtdi
 
-#### $cd termuxtdi
+##### $cd termuxtdi
 
-#### $chmod +x termuxtdi.sh
+##### $chmod +x termuxtdi.sh
 
-#### $./termuxtdi.sh
+##### $./termuxtdi.sh
