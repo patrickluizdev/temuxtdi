@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script desenvolvido para automatizar a instalação dos requisitos necessarios para o TERMUX para TDI
+#Script desenvolvido para automatizar a instalação dos requisitos necessarios para o TERMUX voltado ao TDI
 
 cd ~
 apt update -y
