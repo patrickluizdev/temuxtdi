@@ -1,6 +1,6 @@
 # *Termux voltado para Cybersecurity*
 
-### Este projeto tem como objetivo automatizar a instalação das aplicações que são requisitos para os laboratorios do curso Técnicas de Invasão.
+### Este projeto tem como objetivo automatizar a instalação das aplicações que são requisitos para os laboratórios do curso Técnicas de Invasão.
 
 #### *Termux:* https://termux.dev/en/
 #### *Termux Project:* https://github.com/termux/termux-app#github 
